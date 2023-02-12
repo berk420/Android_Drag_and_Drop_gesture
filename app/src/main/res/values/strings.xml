@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Drag and Drop gesture</string>
+    <string name="total">Total drops:</string>
+    <string name="success">Successful drops:</string>
+</resources>
